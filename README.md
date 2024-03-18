@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roksana Monowar Barna</h1>
 <h3 align="center">A passionate Mern Stack developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://storage.prompt-hunt.workers.dev/clie4pz280009l90fc8m6zevj_1" alt="roksana-barna" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=roksana-barna&label=Profile%20views&color=0e75b6&style=flat" alt="roksana-barna" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roksana-barna" alt="roksana-barna" /></a> </p>
 
